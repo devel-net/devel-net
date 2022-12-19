@@ -86,7 +86,7 @@
     <li><a href="https://ukraine-rp.com"><b>Ukraine RP</b>✔️</a></li>
     <li><a href="https://rico.app"><b>Mobile rent app</b>✔️</a>
     </li>
-    <li><a href="https://myturbodispatch.com"><b>TurboDispatch mobile app</b></a></li>
+    <li><a href="https://myturbodispatch.com"><b>TurboDispatch mobile app</b>✔️</a></li>
 </ul>
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devel-net&show_icons=true&locale=en&layout=compact&theme=tokyonight"
