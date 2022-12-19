@@ -81,7 +81,7 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
             width="40" height="40"/> </a></p>
-<h3 align="left">My pet-projects:</h3>
+<h3 align="left">My business and work projects:</h3>
 <ul>
     <li><a href="https://ukraine-rp.com"><b>Ukraine RP</b>✔️</a></li>
     <li><a href="https://rico.app"><b>Mobile rent app</b>✔️</a>
